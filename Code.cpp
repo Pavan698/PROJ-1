@@ -1,7 +1,7 @@
-/*Name: Sumaiya Mohamud, Jayath Mallireddy, Pavin Karri
+/*Name: Sumaiya Mohamud, Jayath Mallireddy, Pavan Krishna
   Class: CS303
   Project: Spellchecker #1
-  S-Sumaiya J-Jayath P-Pavin
+  S-Sumaiya J-Jayath P-Pavan
   */
 
 #include <iostream>
